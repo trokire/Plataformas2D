@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Grounds
   - Stars
+  - Bomb
   layers:
   - Default
   - TransparentFX
